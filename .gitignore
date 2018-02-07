@@ -5,9 +5,6 @@
 # IntelliJ project files
 .idea
 *.iml
-.idea/vcs.xml
-.idea/workspace.xml
 target
 /.gitattributes
-
 /.gitignore
